@@ -1,8 +1,4 @@
-⭐️ From [Diego Alvarado](https://diegodvfe-github-io.vercel.app/)
-
-<div align="center"><img alt="Banner | Diego Alvardo" src="https://www.actuia.com/wp-content/uploads/2022/02/AlphaCode-generateur-code-Deepmind-evalue-sur-Codeforces.png" /></div>
-
-
+⭐️  I'm  [Diego Alvarado](https://diegodvfe-github-io.vercel.app/)
  
 ## Welcome to my repo
 Welcome to my GitHub! I'm Diego Alvarado, I am start this year as student in University of Galilea Technical Software Eniginnier. When I am not studying or programming, I play tenis and do some sports, I am coffee lover and my favorite cup its a great expresso, I love programming because I can solve problem using the technology,  I listening to different types of music, sharing with my friend the Gospel.
@@ -23,16 +19,20 @@ Welcome to my GitHub! I'm Diego Alvarado, I am start this year as student in Uni
 
 ## Tools and Languages 
 
-[<img align="left" alt="Html" width="26px" scr="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png "> ] 
-[<img align="left" alt="Css" width="26px" scr="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"> ] 
-[<img align="left" alt="Javascrip" width="26px" scr=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"> ] 
-[<img align="left" alt="Node" width="26px" scr="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png "> ] 
-[<img align="left" alt="react" width="26px" scr="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"> ] 
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+<br/>
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
-[<img align="left" alt="github" width="26px" scr="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"> ] 
-
-[<img align="left" alt="visual studio code" width="26px" scr="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png"> ] 
-[<img align="left" alt="figma" width="26px" scr="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> ] 
 
 ### 🛠 Interested in:
 - Mobile, fronted, backend, games, designer.
